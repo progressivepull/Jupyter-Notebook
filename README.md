@@ -11,3 +11,6 @@ cd C:\Users\cocon\anaconda3\Scripts
 
 jupyter notebook --notebook-dir=D:/
 ```
+
+## References
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
