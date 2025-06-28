@@ -10,6 +10,10 @@ cd D:\JOHN_SMITH_ONEDRIVE\OneDrive\PROGRESSIVE_PULL\Repositories\
 ```
 jupyter notebook --notebook-dir=D:/
 ```
+## Example of Context Pages
+```
+# [Math Deep Dives](./README.md)
+```
 
 ## References
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
