@@ -1,14 +1,13 @@
 # Jupyter-Notebook 
 
-Files On Super Work Desk
+## Files On Super Work Desk
 ```
 cd C:\Users\cocon\anaconda3\Scripts
+cd D:\JOHN_SMITH_ONEDRIVE\OneDrive\PROGRESSIVE_PULL\Repositories\
 ```
 
-Open Jupyter from the command line.
+## Open Jupyter from the command line.
 ```
-cd C:\Users\cocon\anaconda3\Scripts
-
 jupyter notebook --notebook-dir=D:/
 ```
 
