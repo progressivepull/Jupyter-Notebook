@@ -10,6 +10,14 @@ cd D:\JOHN_SMITH_ONEDRIVE\OneDrive\PROGRESSIVE_PULL\Repositories\
 ```
 jupyter notebook --notebook-dir=D:/
 ```
+
+# Markdown
+
+## Title for page
+
+```
+<p style="color: blue; font-size: 30px;"><b>TITLE</b></p>
+```
 ## Example of Context Pages
 ```
 # [Math Deep Dives](./README.md)
